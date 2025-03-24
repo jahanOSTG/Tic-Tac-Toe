@@ -15,6 +15,14 @@ Step into the ultimate Tic-Tac-Toe showdown! This game is built using **C++ and 
 -  **Smooth graphics** – Powered by `graphics.h`
 -  **Auto win detection** – No need to count, the game does it for you!
 -  **Instant board reset** – Keep playing non-stop!
+-  ---
+## Tic-Tac-Toe Visualization:
+
+Here is a visual representation of how Tic-Tac-Toe game play:
+
+<img src="output.png" width="200" height="200" alt="Tic-Tac-Toe">
+
+---
 
 ## 🔧 Tools & Technologies Used
 -  **C++** – Core logic and game mechanics
@@ -27,6 +35,7 @@ Step into the ultimate Tic-Tac-Toe showdown! This game is built using **C++ and 
 - Get **three in a row** (horizontal, vertical, or diagonal)  
 - Celebrate your **win** or try again when the board resets!  
 
----
+
+
   
 
