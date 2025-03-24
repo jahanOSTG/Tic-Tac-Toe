@@ -13,7 +13,7 @@ Step into the ultimate Tic-Tac-Toe showdown! This game is built using **C++ and 
 ## 🛠 Awesome Features
 -  **Interactive mouse-based gameplay** – Just click and play!
 -  **Smooth graphics** – Powered by `graphics.h`
--  **Auto win detection** – No need to count, the game does it for you!
+-  **Auto win detection** – No need to count.
 -  **Instant board reset** – Keep playing non-stop!
 -  ---
 ## Tic-Tac-Toe Visualization:
@@ -27,13 +27,13 @@ Here is a visual representation of how Tic-Tac-Toe game play:
 ## 🔧 Tools & Technologies Used
 -  **C++** – Core logic and game mechanics
 -  **graphics.h** – For stunning visual elements
--  **Mouse input handling** – Click anywhere to make your move
--  **Dev-C++** – Compile and run your game smoothly
+-  **Mouse input handling** – Click anywhere to make  move
+-  **Dev-C++** – Compile and run the game smoothly
 
 ## 🎯 How to Play
 - **Click** on a cell to place X or O  
 - Get **three in a row** (horizontal, vertical, or diagonal)  
-- Celebrate your **win** or try again when the board resets!  
+- Celebrate **win** or try again when the board resets!  
 
 
 
